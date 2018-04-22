@@ -1,7 +1,4 @@
-# PHP-Creations
-This repo is for all current and future projects i will have done using PHP
-
-# Repo Contains
+# GitHub API CodeSearch
 - CLI Application: GitHub Vulnerable Code Searcher
 
 
