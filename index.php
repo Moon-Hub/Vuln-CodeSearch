@@ -47,8 +47,8 @@ $pwd = 'password';
 <head>
 	<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Search Code with GitHub API">
+    <meta name="author" content="Moon-Hub">
 	<title>GitHub CodeSearch</title>
 
 	<!-- Latest compiled and minified CSS -->
