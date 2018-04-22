@@ -19,7 +19,7 @@ This repo is for all current and future projects i will have done using PHP
 
 **Known Issues:**
 - As a CLI Application, the `Line Number` field yields warnings and breaks some areas of the code - **FIXED**
-- As a CLI Applicatrion,  the format of the output script breaks
+- As a CLI Applicatrion,  the format of the output script breaks **FIXED**
 
 **Notice:**
 - Pagination feature was worked on at one point, decided to remove it as it just makes the script take far too long
