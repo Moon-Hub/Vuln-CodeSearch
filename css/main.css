@@ -1,0 +1,41 @@
+      body {
+        padding-top: 54px;
+      }
+
+      @media (min-width: 992px) {
+        body {
+          padding-top: 56px;
+        }
+      }
+
+      html,body { height: 100%; }
+
+      *:focus { outline: none; }
+
+      #top { margin-top: 20px; display: none;}
+
+      .displace { position: absolute; margin-top: 5px !important; margin-left: 5px; }
+
+      .stargazer { position: absolute; margin-top: 5px !important; right: 5px; }
+
+      .card-block { padding: 20px; }
+
+      .close { margin-top: -3px; }
+
+      .card-header { padding: 10px !important; font-size: 1.2rem; }
+
+      #code { background-color: #4d4d4d; background-image: url('../img/PCB.svg'); height: 100%; font-weight: bolder; }
+
+      #page, #loader { margin-top: 20px; }
+
+      .stars { margin-top: 2px; position: absolute; right: 10px; }
+
+      .card { margin-bottom: 20px; }
+
+      .color { color: #e83e8c; }
+
+      #loader { height: 100%; }
+
+      @media screen and (max-width: 1024px) {
+      	#mob { margin: 0 auto; }
+      }
